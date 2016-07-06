@@ -1,0 +1,24 @@
+/* Custom Styles */
+
+table tr, td, th{
+	text-align: center;
+}
+
+table th{
+	background: #145D8F;
+	color: #fff;
+}
+
+/* 
+.footer-links li{
+	list-style-type: none !important;
+	font-weight: bold;
+	text-align: left;
+}*/
+
+.footer-links a{
+	font-size: 17px !important;
+	font-weight: bold;
+	text-align: left;
+	color: #5A5A5A;
+}
